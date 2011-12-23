@@ -1,0 +1,7 @@
+/*
+ * Copyright 2009, by Shama <shama@l-wa.org> for Skitour [http://www.skitour.fr]
+ * released under the BSD license.
+ * See http://shamavideals.l-wa.org/GPXEditor/license.txt for the full text of 
+ * the license.
+ */
+

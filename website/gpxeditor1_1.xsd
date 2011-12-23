@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://shamavideals.l-wa.org/GPXEditor1.1" targetNamespace="http://shamavideals.l-wa.org/GPXEditor1.1" elementFormDefault="qualified">
+
+  <xsd:element name="fakeEle">
+		<xsd:complexType>
+    <xsd:annotation>
+      <xsd:documentation>
+				Denote a computed elevation
+		  </xsd:documentation>
+		</xsd:annotation>
+		</xsd:complexType>
+	</xsd:element>
+
+</xsd:schema>

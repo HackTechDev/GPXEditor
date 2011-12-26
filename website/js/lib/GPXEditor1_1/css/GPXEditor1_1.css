@@ -1,0 +1,303 @@
+.gpxe-GPXMap {
+  background-image: url('./GPXEditor1_1-img/mapPanelBackground.png') !important;
+	/*
+	border: none;
+	border-top: 1px solid #A9BFD3;
+	border-left: 1px solid #99BBE8;
+	*/
+}
+.gpxe-EditorToolbar {
+	border-width: 1px 1px 1px 0;
+}
+.gpxe-DefaultValue {
+	color: #c0c0c0;
+	font-style: italic;
+}
+.gpxe-DefaultValue * {
+	font-style: italic;
+}
+
+.gpxe-DetailPanel {
+	background-color: #ffffff;
+	padding: 6px;
+}
+
+.gpxe-DetailLine {
+	background-color: #fafafa;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.gpxe-DetailField {
+	font-weight: bold;
+	color: #15428b;
+}
+
+.gpxe-DetailValue {
+}
+
+/* --------------------------------------------------------------------------- */
+/* Layers                                                                      */
+/* --------------------------------------------------------------------------- */
+.gpxe-Layers {
+	background-image: url('./GPXEditor1_1-img/layers.png') !important;
+}
+.gpxe-LayerMap {
+	background-image: url('./GPXEditor1_1-img/layerMap.png') !important;
+}
+.gpxe-LayerSat {
+	background-image: url('./GPXEditor1_1-img/layerSat.png') !important;
+}
+.gpxe-LayerTopo {
+	background-image: url('./GPXEditor1_1-img/layerTopo.png') !important;
+}
+.gpxe-Config {
+	background-image: url('./GPXEditor1_1-img/config.png') !important;
+}
+.gpxe-lm-provider {
+	font-weight: bold;
+	color: #3c6ba9;
+}
+.gpxe-lm-zone {
+}
+
+.gpxe-lm-type {
+	font-size: smaller;
+	font-variant: oblique;
+}
+
+/* --------------------------------------------------------------------------- */
+/* Actions                                                                     */
+/* --------------------------------------------------------------------------- */
+
+.gpxe-Help {
+	background-image: url('./GPXEditor1_1-img/help.png') !important;
+}
+
+/* zoom */
+.gpxe-ZoomOut {
+	background-image: url('./GPXEditor1_1-img/zoomOut.png') !important;
+}
+.gpxe-ZoomToMaxExtent {
+	background-image: url('./GPXEditor1_1-img/zoomToMaxExtent.png') !important;
+}
+.gpxe-ZoomIn {
+	background-image: url('./GPXEditor1_1-img/zoomIn.png') !important;
+}
+
+/* mapMode */
+.gpxe-Nav {
+	background-image: url('./GPXEditor1_1-img/nav.png') !important;
+}
+.gpxe-WptInfo {
+	background-image: url('./GPXEditor1_1-img/wptInfo.png') !important;
+}
+.gpxe-Distance {
+	background-image: url('./GPXEditor1_1-img/distance.png') !important;
+}
+
+/* editor */
+.gpxe-CollapseIcon {
+	background-image: url('./GPXEditor1_1-img/collapse.png') !important;
+}
+.gpxe-ExpandIcon {
+	background-image: url('./GPXEditor1_1-img/expand.png') !important;
+}
+.gpxe-AddFileIcon {
+	background-image: url('./GPXEditor1_1-img/addFile.png') !important;
+}
+.gpxe-GPXFileLoadIcon {
+	background-image: url('./GPXEditor1_1-img/gpxfileLoad.png') !important;
+}
+.gpxe-GPXFileImportIcon {
+	background-image: url('./GPXEditor1_1-img/gpxfileImport.png') !important;
+}
+.gpxe-GPXFileSaveIcon {
+	background-image: url('./GPXEditor1_1-img/gpxfileSave.png') !important;
+}
+.gpxe-SaveFileIcon {
+	background-image: url('./GPXEditor1_1-img/saveFile.png') !important;
+}
+.gpxe-DeleteAllIcon {
+	background-image: url('./GPXEditor1_1-img/deleteAll.png') !important;
+}
+.gpxe-WptIcon {
+	background-image: url('./GPXEditor1_1-img/wpt.png') !important;
+}
+.gpxe-RteIcon {
+	background-image: url('./GPXEditor1_1-img/rte.png') !important;
+}
+.gpxe-TrkIcon {
+	background-image: url('./GPXEditor1_1-img/trk.png') !important;
+}
+.gpxe-GPXEditorLogoV {
+	background-image: url('./GPXEditor1_1-img/gpxEditorLogoV.png') !important;
+}
+.gpxe-ZoomToGPX {
+	background-image: url('./GPXEditor1_1-img/zoomToGPX.png') !important;
+}
+.gpxe-WptAdd {
+	background-image: url('./GPXEditor1_1-img/wptAdd.png') !important;
+}
+.gpxe-WptEdit {
+	background-image: url('./GPXEditor1_1-img/wptEdit.png') !important;
+}
+.gpxe-WptDelete {
+	background-image: url('./GPXEditor1_1-img/wptDelete.png') !important;
+}
+.gpxe-RteAdd {
+	background-image: url('./GPXEditor1_1-img/rteAdd.png') !important;
+}
+.gpxe-RteEdit {
+	background-image: url('./GPXEditor1_1-img/rteEdit.png') !important;
+}
+.gpxe-RteDelete {
+	background-image: url('./GPXEditor1_1-img/rteDelete.png') !important;
+}
+.gpxe-RteSwap {
+	background-image: url('./GPXEditor1_1-img/rteSwap.png') !important;
+}
+.gpxe-ToTrk {
+	background-image: url('./GPXEditor1_1-img/toTrk.png') !important;
+}
+.gpxe-TrkAdd {
+	background-image: url('./GPXEditor1_1-img/trkAdd.png') !important;
+}
+.gpxe-TrkEdit {
+	background-image: url('./GPXEditor1_1-img/trkEdit.png') !important;
+}
+.gpxe-TrkDelete {
+	background-image: url('./GPXEditor1_1-img/trkDelete.png') !important;
+}
+.gpxe-TrkSwap {
+	background-image: url('./GPXEditor1_1-img/trkSwap.png') !important;
+}
+.gpxe-ToRte {
+	background-image: url('./GPXEditor1_1-img/toRte.png') !important;
+}
+#gpxe-GPXEditorLogoV BUTTON {
+	height: 120px;
+}
+
+.gpxe-GetElevation {
+	background-image: url('./GPXEditor1_1-img/getElevation.png') !important;
+}
+
+/* --------------------------------------------------------------------------- */
+/* OSDInfo                                                                     */
+/* --------------------------------------------------------------------------- */
+.gpxe-OSDInfo { 
+	padding: 2px;
+	padding-left: 5px; 
+	padding-right: 5px;
+	color: #fafafa;
+	background-color: #000000;
+	opacity: 0.7;
+	font-size: smaller;
+}   
+.gpxe-OSDInfoTitle {
+	font-weight: bold;
+	border-bottom: solid 1px #fafafa;
+	margin-bottom: 2px;
+}
+.gpxe-OSDInfoTitleTable {
+	width: 100%;
+}
+.gpxe-OSDInfoTitleLeftCell {
+	text-align: left;
+}
+.gpxe-OSDInfoTitleRightCell {
+	text-align: right;
+}
+.gpxe-OSDInfoBody {
+}
+.gpxe-OSDInfoTopLeft {
+	background-image: url('./GPXEditor1_1-img/bgOSDInfo_tl.png') !important;
+	background-position: top left;
+	background-repeat: no-repeat;
+}   
+.gpxe-OSDInfoTopRight {
+	background-image: url('./GPXEditor1_1-img/bgOSDInfo_tr.png') !important;
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+.gpxe-OSDInfoBottomRight {
+	background-image: url('./GPXEditor1_1-img/bgOSDInfo_br.png') !important;
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+.gpxe-OSDInfoBottomLeft {
+	background-image: url('./GPXEditor1_1-img/bgOSDInfo_bl.png') !important;
+	background-position: bottom left;
+	background-repeat: no-repeat;
+}
+
+/* --------------------------------------------------------------------------- */
+/* OpenLayers                                                                  */
+/* --------------------------------------------------------------------------- */
+/*
+.olHandlerBoxZoomBox {
+	background-color: white;
+	border: 2px solid #000000;
+	font-size: 1px;
+	opacity: .5;
+	position: absolute;
+}
+.olMapViewport {
+	cursor: url('./GPXEditor1_1-img/crosshair.png') 8 8, crosshair !important;
+}
+*/
+
+/* --------------------------------------------------------------------------- */
+/* GPXEDoc                                                                     */
+/* --------------------------------------------------------------------------- */
+.gpxe-doc {
+	padding: 10px;
+	font-size: larger;
+	border: none;
+}
+.gpxe-doc P {
+	margin-top: 5px;
+}
+.gpxe-doc * A {
+	color: #c0c0c0;
+}
+.gpxe-doc * A:hover {
+	color: #ff0000;
+}
+
+.gpxe-doc .gpxe-warning {
+	color: #ffffff;
+	font-weight: bold;
+	text-align: right;
+	font-variant: italic;
+}
+
+#gpxe-aboutGPXEditor1_1 {
+	background-image: url('./GPXEditor1_1-img/shama.jpg') !important;
+	background-repeat: no-repeat;
+	color: #ffffff;
+}
+
+#gpxe-helpGPXEditor1_1 {
+	background-color: #fafafa;
+	text: #000000;
+}
+#gpxe-helpGPXEditor1_1 * A {
+	color: #0000aa;
+}
+#gpxe-helpGPXEditor1_1 * A:hover {
+	color: #ff0000;
+}
+#gpxe-helpGPXEditor1_1 * A.gpxe-aref:hover {
+	color: #0000aa;
+}
+.gpxe-doc * H2 {
+	margin-top: 10px;
+}
+.gpxe-doc * H3 {
+	margin-top: 7px;
+}
+#gpxe-helpGPXEditor1_1 .gpxe-warning {
+	color: #808080;
+}

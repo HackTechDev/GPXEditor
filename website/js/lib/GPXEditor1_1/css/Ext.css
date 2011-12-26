@@ -1,0 +1,28 @@
+.x-toolbar-vct {
+	width: auto;
+	height: 100%;
+}
+.x-toolbar-vct .x-toolbar-top {
+	vertical-align: top;
+}
+.x-toolbar-vct .x-toolbar-bottom {
+	vertical-align: bottom;
+}
+.x-toolbar-vct .xtb-sep {
+	width: 16px;
+	margin: 2px 0;
+	height: 4px;
+	background-image: url('./Ext-img/grid-blue-vsplit.gif');
+}
+.x-toolbar-vct .xtb-spacer {
+	width: 0;
+	height: 2px;
+}
+.x-toolbar-vct .x-btn {
+	width: 100%;
+}
+
+.x-toolbar-layout-vct {
+	border-width: 0;
+	border-left-width: 1px;
+}
